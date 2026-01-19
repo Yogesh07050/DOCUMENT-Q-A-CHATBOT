@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.env
+.venv/
+venv/
+
+# Project data artifacts
+data/faiss.index
+data/faiss-metadata.json
+data/uploads/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.DS_Store

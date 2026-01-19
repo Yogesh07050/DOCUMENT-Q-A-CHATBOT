@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+faiss-cpu
+langchain
+langchain-text-splitters
+numpy
+openai
+pydantic-settings
+pypdf
+python-multipart
+sentence-transformers
+streamlit
+requests
