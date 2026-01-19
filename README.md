@@ -50,3 +50,8 @@ curl http://localhost:8000/health
 ## Notes
 - Set `OPENAI_API_KEY` to enable generation; otherwise the API returns context-only guidance.
 - Tune `CHUNK_SIZE`, `CHUNK_OVERLAP`, and `TOP_K` in `.env` to adjust retrieval behavior.
+
+## OUTPUT:
+
+<img width="1918" height="921" alt="image" src="https://github.com/user-attachments/assets/cbeadfb9-558c-4f8b-b9d2-4e6754699411" />
+
